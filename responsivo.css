@@ -25,6 +25,19 @@
         min-height: 8px;
         background-color: rgb(107, 95, 160);
     }
+    .rel-digital {
+
+    height: 100px;
+    background: linear-gradient(white, red, blue);
+    margin: 20px;
+    font-size: 80px;
+    border-radius: 20px;
+    text-align: center;
+    align-content: center;
+    color: bisque;
+    border: 2px solid red;
+}
+
 
 
     .main {
